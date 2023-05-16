@@ -1,0 +1,62 @@
+.mainContent {
+
+    padding: 100PX 0;
+
+}
+
+.mainContent h2 {
+
+    font-size: 50px;
+    text-align: center;
+    color: tomato;
+    font-weight: bolder;
+    margin: 0 0 50px 0;
+}
+
+.mainContent p {
+
+    font-size: 16px;
+
+    text-align: center;
+    margin: 0 0 30px 0;
+}
+
+.mainContent .inner desc {
+
+    font-weight: bold;
+
+}
+
+.mainContent .inner {
+
+    display: flex;
+    gap: 30px;
+
+    width: 1200px;
+    margin: auto;
+
+
+}
+
+.tit {
+    padding: 0 0 10PX 0;
+    font-weight: bold;
+    margin-top: 10px;
+
+
+}
+
+
+.mainContent .inner figure {
+
+    flex: 1;
+
+
+}
+
+.mainContent .inner img {
+
+    width: 100%;
+
+
+}
